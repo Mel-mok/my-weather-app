@@ -1,0 +1,24 @@
+.Weather-app-name {
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+    font-weight: 700;
+  }
+  .App-name {
+    color: white;
+    font-size: 38px;
+    font-weight: bold;
+  }
+  .App-slogan {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-left: 420px;
+    margin-top: -10px;
+    font-style: italic;
+  }
+  .Emoji {
+    width: 58px;
+    margin-right: -10px;
+    margin-top: -5px;
+  }

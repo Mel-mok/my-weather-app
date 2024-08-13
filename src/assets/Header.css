@@ -1,0 +1,20 @@
+.Form-search {
+    width: 70%;
+    font-size: 25px;
+    padding: 5px;
+    color: black;
+    border: none;
+    border-radius: 6px;
+    padding-left: 10px;
+  }
+  .Form-submit {
+    font-size: 25px;
+    padding: 5px;
+    color: #524e4e;
+    border: none;
+    border-radius: 6px;
+    background-color: #8fbafb;
+    margin-left: 5px;
+    width: 140px;
+  }
+  
